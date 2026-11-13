@@ -1,0 +1,6 @@
+SATTO BIO
+
+1. Abra o arquivo index.html no navegador para visualizar.
+2. A foto do perfil está incluída como cosplay.png.
+3. YouTube, TikTok, Twitch e LivePix já estão configurados.
+4. Para publicar, envie index.html e cosplay.png para o GitHub e conecte o repositório à Vercel.
